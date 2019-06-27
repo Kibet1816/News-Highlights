@@ -1,0 +1,15 @@
+h5{
+    text-align: center;
+}
+h4{
+    font-size: larger;
+    font-family: cursive;
+}
+.navbar-inverse{
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+}
+.panel-body{
+    background-color: slategray;
+}
